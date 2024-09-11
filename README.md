@@ -185,7 +185,10 @@
   </p>
 </details>
 
+<!-- 
+Snake gif
 <img src="https://github.com/lonnewolf120/lonnewolf120/blob/output/github-contribution-grid-snake.gif" >
+-->
 <!-- use this api for more user stats: https://stats.dooboo.io/en/stats/lonnewolf120 -->
 
 <!-- Social Media Links -->
