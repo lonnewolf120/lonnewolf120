@@ -25,9 +25,10 @@
          alt="Iftee's Top Languages" 
          src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/lang.svg" 
          height="192px" >
-   </div>
+      
 <br/>
 <hr>
+   </div>
 
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
