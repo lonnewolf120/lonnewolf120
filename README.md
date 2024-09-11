@@ -14,14 +14,21 @@
 <div>
 
 <div align="left">
-```js
-{
-    "Name": "Iftekharul Islam",
-    "Working-As" : "Software engineer & Vice President, MCSC",
-    "Living-In" : "Bangladesh",
-    "Study" : "BSc in CSE, MIST (L3)" 
-}
-```
+<ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
+    <li style="margin-bottom: 10px;">
+        <strong style="color: #4a90e2;">Name:</strong> Iftekharul Islam
+    </li>
+    <li style="margin-bottom: 10px;">
+        <strong style="color: #4a90e2;">Working As:</strong> Software engineer & Vice President, MCSC
+    </li>
+    <li style="margin-bottom: 10px;">
+        <strong style="color: #4a90e2;">Living In:</strong> Bangladesh
+    </li>
+    <li style="margin-bottom: 10px;">
+        <strong style="color: #4a90e2;">Study:</strong> BSc in CSE, MIST (L3)
+    </li>
+</ul>
+
 </div>
 
 <!-- <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
