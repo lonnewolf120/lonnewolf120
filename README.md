@@ -14,7 +14,7 @@
 <div>
 
 <div align="left">
-```json
+```js
 {
     "Name": "Iftekharul Islam",
     "Working-As" : "Software engineer & Vice President, MCSC",
