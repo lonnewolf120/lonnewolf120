@@ -13,12 +13,9 @@
 -->
 <img src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/name_big.svg" />
 
-<h1>About me </h1>
   <div>
     <ul align="left" style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
-      <li><strong>Name:</strong> Iftekharul Islam</li>
       <li><strong>Working As:</strong> Software Engineer & Vice President, MCSC</li>
-      <li><strong>Living In:</strong> Bangladesh</li>
       <li><strong>Study:</strong> BSc in CSE, MIST (L3)</li>
     </ul>
     <a href="https://github.com/lonnewolf120/" align="right">
