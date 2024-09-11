@@ -20,7 +20,7 @@
   <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Working As:</strong> Software Engineer & Vice President, MCSC</li>
   <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Living In:</strong> Bangladesh</li>
   <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Study:</strong> BSc in CSE, MIST (L3)</li>
-</ul> | ![Iftee's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lonnewolf120&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff) |
+</ul> | ![Iftee's Top Languages](https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/lang.svg) |
 | --- | --- |
 
 
