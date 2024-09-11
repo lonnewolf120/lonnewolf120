@@ -21,11 +21,12 @@
       <li><strong>Living In:</strong> Bangladesh</li>
       <li><strong>Study:</strong> BSc in CSE, MIST (L3)</li>
     </ul>
-    <img align="right"
+    <a href="https://github.com/lonnewolf120/" align="right">
+    <img
          alt="Iftee's Top Languages" 
          src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/lang.svg" 
          >
-      
+    </a>
 <br/>
 <hr>
    </div>
