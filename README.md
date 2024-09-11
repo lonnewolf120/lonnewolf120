@@ -11,9 +11,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=67DCF7&center=true&vCenter=true&width=435&lines=Iftekharul+Islam" alt="Typing SVG" />
 >
 -->
-<img src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/name_big.svg" />
+<img src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/name_big.svg" align="left" />
 
-  <a href="https://www.linkedin.com/in/iftee-khar-ul-islam-076184183" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a>
+  <a align="right" href="https://www.linkedin.com/in/iftee-khar-ul-islam-076184183" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a>
   <div>
     <ul align="left" style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
       <li><strong>Working As:</strong> Software Engineer & Vice President, MCSC</li>
