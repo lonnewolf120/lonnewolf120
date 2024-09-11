@@ -15,32 +15,34 @@
 
 <h1>About me </h1>
 <div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <!-- Left side (list) -->
+    <div style="flex: 1; padding-right: 20px;">
+        <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #4a90e2;">Name:</strong> Iftekharul Islam
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #4a90e2;">Working As:</strong> Software Engineer & Vice President, MCSC
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #4a90e2;">Living In:</strong> Bangladesh
+            </li>
+            <li style="margin-bottom: 10px;">
+                <strong style="color: #4a90e2;">Study:</strong> BSc in CSE, MIST (L3)
+            </li>
+        </ul>
+    </div>
 
-<div align="left">
-<ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
-    <li style="margin-bottom: 10px;">
-        <strong style="color: #4a90e2;">Name:</strong> Iftekharul Islam
-    </li>
-    <li style="margin-bottom: 10px;">
-        <strong style="color: #4a90e2;">Working As:</strong> Software engineer & Vice President, MCSC
-    </li>
-    <li style="margin-bottom: 10px;">
-        <strong style="color: #4a90e2;">Living In:</strong> Bangladesh
-    </li>
-    <li style="margin-bottom: 10px;">
-        <strong style="color: #4a90e2;">Study:</strong> BSc in CSE, MIST (L3)
-    </li>
-</ul>
-
+    <!-- Right side (image) -->
+    <div style="flex: 1; text-align: right;">
+        <img alt="Iftee's Top Languages" 
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lonnewolf120&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+             height="192px" />
+    </div>
 </div>
 
-<!-- <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Iftee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lonnewolf120&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
- -->
-
-<img alt="Iftee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lonnewolf120&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</div>
-
+![snake gif](https://github.com/lonnewolf120/lonnewolf120/blob/output/github-contribution-grid-snake.gif)
 <br/>
 
 <summary><h2>📘 My Top Open Source Projects</h2></summary>
