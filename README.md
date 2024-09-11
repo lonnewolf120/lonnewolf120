@@ -15,32 +15,14 @@
 
 <h1>About me </h1>
 <div>
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <!-- Left side (list) -->
-    <div style="flex: 1; padding-right: 20px;">
-        <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
-            <li style="margin-bottom: 10px;">
-                <strong style="color: #4a90e2;">Interests:</strong> SWE, Cybersecurity, DevOPs, Everything Dev
-            </li>
-            <li style="margin-bottom: 10px;">
-                <strong style="color: #4a90e2;">Working As:</strong> Software Engineer & Vice President, MCSC
-            </li>
-            <li style="margin-bottom: 10px;">
-                <strong style="color: #4a90e2;">Living In:</strong> Bangladesh
-            </li>
-            <li style="margin-bottom: 10px;">
-                <strong style="color: #4a90e2;">Study:</strong> BSc in CSE, MIST (L3)
-            </li>
-        </ul>
-    </div>
+| <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Name:</strong> Iftekharul Islam</li>
+  <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Working As:</strong> Software Engineer & Vice President, MCSC</li>
+  <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Living In:</strong> Bangladesh</li>
+  <li style="margin-bottom: 10px;"><strong style="color: #4a90e2;">Study:</strong> BSc in CSE, MIST (L3)</li>
+</ul> | ![Iftee's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lonnewolf120&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff) |
+| --- | --- |
 
-    <!-- Right side (image) -->
-    <div style="flex: 1; text-align: right;">
-        <img alt="Iftee's Top Languages" 
-             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lonnewolf120&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-             height="192px" />
-    </div>
-</div>
 
 <br/>
 
