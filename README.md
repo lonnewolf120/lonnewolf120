@@ -15,7 +15,7 @@
 
 <h1>About me </h1>
   <div>
-    <ul align="left">
+    <ul align="left" style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
       <li><strong>Name:</strong> Iftekharul Islam</li>
       <li><strong>Working As:</strong> Software Engineer & Vice President, MCSC</li>
       <li><strong>Living In:</strong> Bangladesh</li>
