@@ -20,7 +20,7 @@
     <div style="flex: 1; padding-right: 20px;">
         <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
             <li style="margin-bottom: 10px;">
-                <strong style="color: #4a90e2;">Name:</strong> Iftekharul Islam
+                <strong style="color: #4a90e2;">Interests:</strong> SWE, Cybersecurity, DevOPs, Everything Dev
             </li>
             <li style="margin-bottom: 10px;">
                 <strong style="color: #4a90e2;">Working As:</strong> Software Engineer & Vice President, MCSC
