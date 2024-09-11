@@ -14,9 +14,9 @@
 <img src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/name_big.svg" />
 
 <h1>About me </h1>
-<div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Left side (list) -->
-  <div style="float: left; width: 50%;">
+  <div style="flex: 1; width: 50%;">
     <ul>
       <li><strong>Name:</strong> Iftekharul Islam</li>
       <li><strong>Working As:</strong> Software Engineer & Vice President, MCSC</li>
@@ -26,7 +26,7 @@
   </div>
 
   <!-- Right side (image) -->
-  <div style="float: right; width: 50%;">
+  <div style="flex: 1; width: 50%;">
     <img alt="Iftee's Top Languages" 
          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lonnewolf120&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
          height="192px" />
