@@ -7,8 +7,11 @@
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=lonnewolf120&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true" > -->
 <!-- From git.io/typing-svg -->
-><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=67DCF7&center=true&vCenter=true&width=435&lines=Iftekharul+Islam" alt="Typing SVG" />
+<!--
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=67DCF7&center=true&vCenter=true&width=435&lines=Iftekharul+Islam" alt="Typing SVG" />
 >
+-->
+<img src="https://raw.githubusercontent.com/lonnewolf120/lonnewolf120/main/assets/name_big.svg" />
 
 <h1>About me </h1>
 <div>
