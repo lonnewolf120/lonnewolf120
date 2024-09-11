@@ -42,7 +42,6 @@
     </div>
 </div>
 
-![snake gif](https://github.com/lonnewolf120/lonnewolf120/blob/output/github-contribution-grid-snake.gif)
 <br/>
 
 <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -186,6 +185,7 @@
   </p>
 </details>
 
+<img src="https://github.com/lonnewolf120/lonnewolf120/blob/output/github-contribution-grid-snake.gif" >
 <!-- use this api for more user stats: https://stats.dooboo.io/en/stats/lonnewolf120 -->
 
 <!-- Social Media Links -->
